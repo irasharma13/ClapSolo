@@ -29,7 +29,7 @@ To install ClapSolo on your device, follow these steps:
 3. **Open the project in Android Studio:**
     - Launch Android Studio.
     - Select `Open an existing project`.
-    - Navigate to the `clap-solo` directory and open it.
+    - Navigate to the `ClapSolo` directory and open it.
 4. **Build and run the app:**
     - Connect your Android device or start an emulator.
     - Click on `Run` in Android Studio.
