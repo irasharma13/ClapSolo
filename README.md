@@ -11,11 +11,9 @@ ClapSolo is a mobile application that allows users to simulate clapping using ju
 
 ## Video Demo
 
-[![ClapSolo Video Demo]
+Click the video below to watch a video demonstration of ClapSolo in action.
 
-https://github.com/irasharma13/ClapSolo/assets/36807339/01df1288-49e3-4078-bed0-a7c1a81861a9
-
-Click the image above to watch a video demonstration of ClapSolo in action.
+[![ClapSolo Video Demo](https://github.com/irasharma13/ClapSolo/assets/36807339/01df1288-49e3-4078-bed0-a7c1a81861a9)
 
 
 ## Installation
@@ -27,9 +25,7 @@ To install ClapSolo on your device, follow these steps:
     git clone https://github.com/your-username/clap-solo.git
     ```
 2. **Navigate to the project directory:**
-    ```bash
-    cd clap-solo
-    ```
+   
 3. **Open the project in Android Studio:**
     - Launch Android Studio.
     - Select `Open an existing project`.
