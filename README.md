@@ -13,8 +13,7 @@ ClapSolo is a mobile application that allows users to simulate clapping using ju
 
 Click the video below to watch a video demonstration of ClapSolo in action.
 
-[![ClapSolo Video Demo](https://github.com/irasharma13/ClapSolo/assets/36807339/01df1288-49e3-4078-bed0-a7c1a81861a9.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-
+https://github.com/irasharma13/ClapSolo/assets/36807339/01df1288-49e3-4078-bed0-a7c1a81861a9.jpg)]
 
 
 ## Installation
