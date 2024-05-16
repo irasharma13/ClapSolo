@@ -22,7 +22,7 @@ To install ClapSolo on your device, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/clap-solo.git
+    git clone https://github.com/irasharma13/ClapSolo.git
     ```
 2. **Navigate to the project directory:**
    
